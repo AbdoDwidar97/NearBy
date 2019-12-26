@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Near By</string>
+    <string name="appBar_1">Realtime</string>
+    <string name="appBar_2">Single mode</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/Mode_Readltime"
+    android:title="@string/appBar_1"
+    app:showAsAction="withText"></item>
+
+    <item
+        android:id="@+id/Mode_Single"
+        android:title="@string/appBar_2"
+        app:showAsAction="withText"></item>
+
+</menu>
